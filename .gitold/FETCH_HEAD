@@ -1,0 +1,7 @@
+dbe4b0a89a34cca8f3bb381b9765d637b0f254c0		branch 'master' of https://github.com/hschne/reveal.js-starter
+52a196dbfd0d54246482730c68e63ff2923584b3	not-for-merge	branch '21-08-move-to-rollup' of https://github.com/hschne/reveal.js-starter
+457c5c87383bdfab1fb5282e83204704e3c4572d	not-for-merge	branch 'dependabot/github_actions/actions/checkout-3' of https://github.com/hschne/reveal.js-starter
+8a3f5ce4a9df460e04c2e29579c0347e3a955e5e	not-for-merge	branch 'dependabot/github_actions/actions/setup-node-3' of https://github.com/hschne/reveal.js-starter
+0523921a2375b5dba79ee81908e540f4fed3183c	not-for-merge	branch 'dependabot/npm_and_yarn/eslint-8.11.0' of https://github.com/hschne/reveal.js-starter
+774b51e25dcb2d260680b72c3ef4b914b95aa887	not-for-merge	branch 'dependabot/npm_and_yarn/reveal.js-4.3.0' of https://github.com/hschne/reveal.js-starter
+01202c4b5a542c979bfbeed0d1fb66b231315b5f	not-for-merge	branch 'dependabot/npm_and_yarn/rollup-2.70.0' of https://github.com/hschne/reveal.js-starter
