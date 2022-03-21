@@ -20,6 +20,22 @@
     <script src="plugin/notes/notes.js"></script>
     <script src="plugin/highlight/highlight.js"></script>
     <!-- from: https://github.com/hschne/reveal.js-starter -->
+    <style>
+      @keyframes colorchange {
+        from{
+          filter: hue-rotate(0deg);
+        }
+        to{
+          filter: hue-rotate(359deg);
+        }
+      }
+      .slide-background-content-animate{
+        animation-name: colorchange;
+        animation-duration: 30s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+      }
+    </style>
   </head>
   <body>
     <div class="reveal">
@@ -53,6 +69,37 @@
         history: "true",
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
       });
+
+      let enabled = false;
+      window.addEventListener("keydown", function (event) {
+        if (event.defaultPrevented) {
+          return; // Do nothing if the event was already processed
+        }
+        switch (event.key) {
+          case "c":
+            if (enabled) {
+              console.log("disabling color-change")
+              let els = document.getElementsByClassName("slide-background-content")
+              for (el of els) {
+                el.classList.remove("slide-background-content-animate")
+              }
+              enabled = false;
+            } else {
+              console.log("enabling color-change")
+              let els = document.getElementsByClassName("slide-background-content")
+              for (el of els) {
+                el.classList.add("slide-background-content-animate")
+              }
+              enabled = true;
+            }
+            break;
+          default:
+            return; // Quit when this doesn't handle the key event.
+        }
+
+        // Cancel the default action to avoid it being handled twice
+        event.preventDefault();
+      }, true);
     </script>
   </body>
 </html>

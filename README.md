@@ -1,4 +1,8 @@
-KCSOC Weekend Retreat Slides
+# KCSOC Weekend Retreat Slides
+
+Edit `index.md` to change the slide content
+
+Press <kbd>C</kbd> for color changing! :)))
 
 
 ---
