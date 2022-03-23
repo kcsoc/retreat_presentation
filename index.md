@@ -29,6 +29,8 @@ sahitaṁ kṛṣṇa-caitanya-devaṁ\
 śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-\
 lalitā-śrī-viśākhānvitāṁś ca
 
+---
+
 I offer my respectful obeisances unto the lotus feet of my spiritual master and unto the feet of all Vaiṣṇavas. I offer my respectful obeisances unto the lotus feet of Śrīla Rūpa Gosvāmī along with his elder brother Sanātana Gosvāmī, as well as Raghunātha Dāsa and Raghunātha Bhaṭṭa, Gopāla Bhaṭṭa and Śrīla Jīva Gosvāmī. I offer my respectful obeisances to Lord Kṛṣṇa Caitanya and Lord Nityānanda along with Advaita Ācārya, Gadādhara, Śrīvāsa and other associates. I offer my respectful obeisances to Śrīmatī Rādhārāṇī and Śrī Kṛṣṇa along with Their associates Śrī Lalitā and Viśākhā.
 
 ---
