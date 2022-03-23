@@ -2,6 +2,65 @@
 
 ---NEW SLIDE---
 
+oṁ ajñāna-timirāndhasya\
+jñānāñjana-śalākayā\
+cakṣur unmīlitaṁ yena\
+tasmai śrī-gurave namaḥ
+
+I was born in the darkest ignorance, and my spiritual master opened my eyes with the torch of knowledge. I offer my respectful obeisances unto him.
+
+---
+
+śrī-caitanya-mano-’bhīṣṭaṁ\
+sthāpitaṁ yena bhū-tale\
+svayaṁ rūpaḥ kadā mahyaṁ\
+dadāti sva-padāntikam
+
+When will Śrīla Rūpa Gosvāmī Prabhupāda, who has established within this material world the mission to fulfill the desire of Lord Caitanya, give me shelter under his lotus feet?
+
+---
+
+vande ’haṁ śrī-guroḥ śrī-yuta-pada-\
+kamalaṁ śrī-gurūn vaiṣṇavāṁś ca\
+śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-\
+raghunāthānvitaṁ taṁ sa-jīvam\
+sādvaitaṁ sāvadhūtaṁ parijana-\
+sahitaṁ kṛṣṇa-caitanya-devaṁ\
+śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-\
+lalitā-śrī-viśākhānvitāṁś ca
+
+I offer my respectful obeisances unto the lotus feet of my spiritual master and unto the feet of all Vaiṣṇavas. I offer my respectful obeisances unto the lotus feet of Śrīla Rūpa Gosvāmī along with his elder brother Sanātana Gosvāmī, as well as Raghunātha Dāsa and Raghunātha Bhaṭṭa, Gopāla Bhaṭṭa and Śrīla Jīva Gosvāmī. I offer my respectful obeisances to Lord Kṛṣṇa Caitanya and Lord Nityānanda along with Advaita Ācārya, Gadādhara, Śrīvāsa and other associates. I offer my respectful obeisances to Śrīmatī Rādhārāṇī and Śrī Kṛṣṇa along with Their associates Śrī Lalitā and Viśākhā.
+
+---
+
+he kṛṣṇa karuṇā-sindho\
+dīna-bandho jagat-pate\
+gopeśa gopikā-kānta\
+rādhā-kānta namo ’stu te
+
+O my dear Kṛṣṇa, You are the friend of the distressed and the source of creation. You are the master of the gopīs and the lover of Rādhārāṇī. I offer my respectful obeisances unto You.
+
+---
+
+tapta-kāñcana-gaurāṅgi\
+rādhe vṛndāvaneśvari\
+vṛṣabhānu-sute devi\
+praṇamāmi hari-priye
+
+I offer my respects to Rādhārāṇī, whose bodily complexion is like molten gold and who is the Queen of Vṛndāvana. You are the daughter of King Vṛṣabhānu, and You are very dear to Lord Kṛṣṇa.
+
+---
+
+vāñchā-kalpa-tarubhyaś ca\
+kṛpā-sindhubhya eva ca\
+patitānāṁ pāvanebhyo\
+vaiṣṇavebhyo namo namaḥ
+
+I offer my respectful obeisances unto all the Vaiṣṇava devotees of the Lord. They can fulfill the desires of everyone, just like desire trees, and they are full of compassion for the fallen souls.
+
+
+---NEW SLIDE---
+
 nama oḿ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale\
 śrīmate bhaktivedānta-svāmin iti nāmine
 
