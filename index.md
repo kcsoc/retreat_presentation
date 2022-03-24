@@ -98,6 +98,10 @@ Hare Hare
 
 ---NEW SLIDE---
 
+Jai Jai Radhe Govinda
+
+---NEW SLIDE---
+
 
 ### śrī-guru-caraṇa-padma
 ### kevala-bhakati-sadma
