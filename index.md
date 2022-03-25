@@ -347,6 +347,10 @@ Remembering the lotus feet of Lord Nityananda's consort, Sri Jahnava Devi, this 
 
 ---NEW SLIDE---
 
+### jaya rādhā-mādhava kuñja-bihārī
+
+---
+
 jaya rādhā-mādhava kuñja-bihārī\
 gopī-jana-vallabha giri-vara-dhārī
 
@@ -360,6 +364,10 @@ yāmuna-tīra-vana-cārī
 He is the beloved son of mother Yasoda, the delighter of the inhabitants of Vraja, and He wanders in the forests along the banks of the River Yamuna!
 
 ---NEW SLIDE---
+
+### namas te narasiḿhāya
+
+---
 
 namas te narasiḿhāya\
 prahlādāhlāda-dāyine\
