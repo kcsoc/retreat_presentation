@@ -60,7 +60,6 @@ vaiṣṇavebhyo namo namaḥ
 
 I offer my respectful obeisances unto all the Vaiṣṇava devotees of the Lord. They can fulfill the desires of everyone, just like desire trees, and they are full of compassion for the fallen souls.
 
-
 ---NEW SLIDE---
 
 nama oḿ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale\
@@ -75,14 +74,12 @@ nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
 
 Our respectful obeisances are unto you, O spiritual master, servant of Sarasvatī Gosvāmī. You are kindly preaching the message of Lord Caitanyadeva and delivering the Western countries, which are filled with impersonalism and voidism.
 
-
 ---NEW SLIDE---
 
 (jaya) śrī-kṛṣṇa-caitanya prabhu nityānanda\
 śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
 
 Srī Caitanya Mahāprabhu is always accompanied by His plenary expansion Srī Nityānanda Prabhu, His incarnation Srī Advaita Prabhu, His internal potency Srī Gadādhara Prabhu, and His marginal potency Srīvāsa Prabhu. He is in the midst of them as the Supreme Personality of Godhead.
-
 
 ---NEW SLIDE---
 
@@ -102,8 +99,8 @@ Jai Jai Radhe Govinda
 
 ---NEW SLIDE---
 
-
 ### śrī-guru-caraṇa-padma
+
 ### kevala-bhakati-sadma
 
 ---
@@ -141,7 +138,6 @@ hā hā prabhu koro doyā, deho more pada-chāyā,\
 ebe jaśa ghuṣuk tribhuvana
 
 Our spiritual master is the ocean of mercy, the friend of the poor, and the lord and master of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
-
 
 ---NEW SLIDE---
 
@@ -193,7 +189,7 @@ O Svarupa Damodara, personal secretary of Lord Caitanya, O six Gosvamis O Sri Ru
 
 doyā koro śrī-ācārya prabhu śrīnivāsa\
 rāmacandra-sańga māge narottama-dāsa
- 
+
 O Srinivasa Acarya, successor to the six Gosvamis! Please be merciful to me. Narottama dasa always desires the company of Ramacandra Cakravarti.
 
 ---NEW SLIDE---
@@ -205,35 +201,35 @@ O Srinivasa Acarya, successor to the six Gosvamis! Please be merciful to me. Nar
 'gaurāńga' bolite habe pulaka-śarīra\
 'hari hari' bolite nayane ba' be nīra
 
-When will that opportune moment come to us, when there will be shivering of the body as soon as we chant Lord Gauranga's name?  While chanting Hare Krsna, when will there be tears in the eyes? 
+When will that opportune moment come to us, when there will be shivering of the body as soon as we chant Lord Gauranga's name? While chanting Hare Krsna, when will there be tears in the eyes?
 
 ---
 
 āra kabe nitāi-cānder koruṇā hoibe\
 saḿsāra-bāsanā mora kabe tuccha ha'be
 
-When will I obtain the mercy of Lord Nityananda-candra?  When, by His mercy will the desire for material enjoyment become very insignificant? 
- 
+When will I obtain the mercy of Lord Nityananda-candra? When, by His mercy will the desire for material enjoyment become very insignificant?
+
 ---
 
 viṣaya chāriyā kabe śuddha ha 'be mana\
 kabe hāma herabo śrī-bṛndābana
- 
-When the mind is completely purified, being freed from material anxieties and desires, then I shall be able to understand Vrndavana and the conjugal love of Radha and Krsna, and then my spiritual life will be successful. 
+
+When the mind is completely purified, being freed from material anxieties and desires, then I shall be able to understand Vrndavana and the conjugal love of Radha and Krsna, and then my spiritual life will be successful.
 
 ---
 
 rūpa-raghunātha-pade hoibe ākuti\
 kabe hāma bujhabo se jugala-pīriti
 
-When shall I be very much eager to study the books left by the Six Gosvami's, headed by Srila Rupa Gosvami and Srila Raghunatha dasa Gosvami?  By their instruction I shall be able to properly understand the loving affairs of Radha and Krsna. 
- 
+When shall I be very much eager to study the books left by the Six Gosvami's, headed by Srila Rupa Gosvami and Srila Raghunatha dasa Gosvami? By their instruction I shall be able to properly understand the loving affairs of Radha and Krsna.
+
 ---
 
 rūpa-raghunātha-pade rahu mora āśa\
 prārthanā koroye sadā narottama-dāsa
 
-My only aspiration is to attain the lotus feet of the Six Gosvamis headed by Srila Rupa Gosvami and Srila Raghunatha dasa Gosvami.  Narottama dasa constantly prays to attain their lotus feet.
+My only aspiration is to attain the lotus feet of the Six Gosvamis headed by Srila Rupa Gosvami and Srila Raghunatha dasa Gosvami. Narottama dasa constantly prays to attain their lotus feet.
 
 ---NEW SLIDE---
 
@@ -267,7 +263,6 @@ kṛṣṇaera saḿsāra koro chāḍi’ anācār\
 jīve doyā, kṛṣṇa-nām—sarva-dharma-sār
 
 Giving up all sinful activities, carry on your worldly duties only in relation to Lord Krsna. The showing of compassion to other souls by loudly chanting the holy name of Krsna is the essence of all forms of religion.
-
 
 ---NEW SLIDE---
 
@@ -350,5 +345,44 @@ dīna kṛṣṇa-dāsa kohe nāma-sańkīrtan
 
 Remembering the lotus feet of Lord Nityananda's consort, Sri Jahnava Devi, this very fallen and lowly servant of Krsna sings the sankirtana of the holy name.
 
+---NEW SLIDE---
+
+jaya rādhā-mādhava kuñja-bihārī\
+gopī-jana-vallabha giri-vara-dhārī
+
+Krsna is the lover of Radha. He displays many amorous pastimes in the groves of Vrndavana, He is the lover of the cowherd maidens of Vraja, and the holder of the great hill named Govardhana.
+
+---
+
+yaśodā-nandana braja-jana-rañjana\
+yāmuna-tīra-vana-cārī
+
+He is the beloved son of mother Yasoda, the delighter of the inhabitants of Vraja, and He wanders in the forests along the banks of the River Yamuna!
+
+---NEW SLIDE---
+
+namas te narasiḿhāya\
+prahlādāhlāda-dāyine\
+hiraṇyakaśipor vakṣaḥ-\
+śilā-ṭańka-nakhālaye
+
+I offer my obeisances to Lord Narasimha, who gives joy to Prahlada Maharaja and whose nails are like chisels on the stone like chest of the demon Hiranyakasipu.
+
+---
+
+ito nṛsiḿhaḥ parato nṛsiḿho\
+yato yato yāmi tato nṛsiḿhaḥ\
+bahir nṛsiḿho hṛdaye nṛsiḿho\
+nṛsiḿham ādiḿ śaraṇaḿ prapadye
+
+Lord Nrsimha is here and also there. Wherever I go Lord Nrsimha is there. He is in the heart and is outside as well. I surrender to Lord Nrsimha, the origin of all things and the supreme refuge.
+
+---
+
+tava kara-kamala-vare nakham adbhuta-śṛńgaḿ\
+dalita-hiraṇyakaśipu-tanu-bhṛńgam\
+keśava dhṛta-narahari-rūpa jaya jagadīśa hare
+
+O Kesava! O Lord of the universe! O Lord Hari, who have assumed the form of half-man, half-lionl All glories to You! Just as one can easily crush a wasp between one's fingernails, so in the same way the body of the wasp like demon Hiranyakasipu has been ripped apart by the wonderful pointed nails on Your beautiful lotus hands.
 
 ---NEW SLIDE---
