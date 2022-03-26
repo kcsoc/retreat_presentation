@@ -7,7 +7,7 @@ jñānāñjana-śalākayā\
 cakṣur unmīlitaṁ yena\
 tasmai śrī-gurave namaḥ
 
-I was born in the darkest ignorance, and my spiritual master opened my eyes with the torch of knowledge. I offer my respectful obeisances unto him.
+I was born in the darkest ignorance, and my spiritual teacher opened my eyes with the torch of knowledge. I offer my respectful obeisances unto him.
 
 ---
 
@@ -105,39 +105,40 @@ Jai Jai Radhe Govinda
 
 ---
 
-śrī-guru-caraṇa-padma, kevala-bhakati-sadma,\
-bando muñi sāvadhāna mate\
-jāhāra prasāde bhāi, e bhava toriyā jāi,\
-kṛṣṇa-prāpti hoy jāhā ha'te
+sri-guru-charana-padma, kevala-bhakati-sadma\
+bando mui savadhana mate\
+jahara prasade bhai, e bhava toriya jai\
+krishna-prapti hoy jaha haite
 
-The lotus feet of our spiritual master are the only way by which we can attain pure devotional service. I bow to his lotus feet with great awe and reverence. By his grace one can cross the ocean of material suffering and obtain the mercy of Krsna.
-
----
-
-guru-mukha-padma-vākya, cittete koribo aikya,\
-ār nā koriho mane āśā\
-śrī-guru-caraṇe rati, ei se uttama-gati,\
-je prasāde pūre sarva āśā
-
-My only wish is to have my consciousness purified by the words emanating from his lotus mouth. Attachment to his lotus feet is the perfection that fulfills all desires.
+The lotus feet of our spiritual teacher are the abode of pure devotional service. I bow down to his lotus feet with great awe and reverance. It is through the grace of our spiritual teacher that we can cross over this material existence and attain love of Krishna.
 
 ---
 
-cakṣu-dān dilo jei, janme janme prabhu sei,\
-divya jñān hṛde prokāśito\
-prema-bhakti jāhā hoite, avidyā vināśa jāte,\
-vede gāy jāhāra carito
+guru-mukha-padma-vakya, chittete koriya aikya,\
+ar na koriho mane asha\
+sri-guru-charane rati, ei se uttama-gati\
+je prasade pure sarva asha
 
-He opens my darkened eyes and fills my heart with transcendental knowledge. He is my Lord birth after birth. From him ecstatic prema emanates; by him ignorance is destroyed. The Vedic scriptures sing of his character.
+My only wish is to have my consciousness purified by the words emanating from the spiritual teacher's lotus mouth. Attachment to his lotus feet is the perfection that fulfills all desires.
 
 ---
 
-śrī-guru karuṇā-sindhu, adhama janāra bandhu,\
-lokanāth lokera jīvana\
-hā hā prabhu koro doyā, deho more pada-chāyā,\
-ebe jaśa ghuṣuk tribhuvana
+chakhu-dan dilo jei, janme janme prabhu sei\
+divya jnan hride prokashito\
+prema-bhakti jaha hoite, avidya vinasha jate\
+vede gay jahara charito
 
-Our spiritual master is the ocean of mercy, the friend of the poor, and the lord and master of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
+The spiritual teacher opens my darkened eyes and fills my heart with transcendental knowledge. He is my Lord birth after birth. From him ecstatic love emanates; by him ignorance is destroyed. The Vedic scriptures sing of his character.
+
+---
+
+sri-guru karuna-sindhu, adhama janara bandhu\
+lokanath lokera jivana\
+ha ha prabhu koro doya, deho more pada-chaya\
+ebe jasha ghusuk tribhuvana
+
+Our spiritual teacher is the ocean of mercy, the friend of the poor, and the lord of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
+
 
 ---NEW SLIDE---
 
