@@ -95,12 +95,85 @@ Hare Hare
 
 ---NEW SLIDE---
 
-Jai Jai Radhe Govinda
+### Sri Guruvastakam 
+### saḿsāra dāvānala līḍha loka
+
+---
+
+saḿsāra-dāvānala-līḍha-loka-\
+trāṇāya kāruṇya-ghanāghanatvam\
+prāptasya kalyāṇa-guṇārṇavasya\
+vande guroḥ śrī-caraṇāravindam
+
+The spiritual master is receiving benediction from the ocean of mercy. Just as a cloud pours water on a forest fire to extinguish it, so the spiritual master delivers the materially afflicted world by extinguishing the blazing fire of material existence. I offer my respectful obeisances unto the lotus feet of such a spiritual master, who is an ocean of auspicious qualities.
+
+---
+
+mahāprabhoḥ kīrtana-nṛtya-gīta-\
+vāditra-mādyan-manaso rasena\
+romāñca -kampāśru-tarańga-bhājo\
+vande guroḥ śrī-caraṇāravindam
+
+Chanting the holy name, dancing in ecstasy, singing, and playing musical instruments, the spiritual master is always gladdened by the sankirtana movement of Lord Caitanya Mahaprabhu. Because he is relishing the mellows of pure devotion within his mind, sometimes his hair stands on end, he feels quivering in his body, and tears flow from his eyes like waves. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+
+---
+
+śrī-vigrahārādhana-nitya-nānā-\
+śṛńgāra-tan-mandira-mārjanādau\
+yuktasya bhaktāḿś ca niyuñjato 'pi\
+vande guroḥ śrī-caraṇāravindam
+
+The spiritual master is always engaged in the temple worship of Sri Sri Radha and Krsna. He also engages his disciples in such worship. They dress the Deities in beautiful clothes and ornaments, clean Their temple, and perform other similar worship of the Lord. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+
+---
+
+catur-vidha-śrī-bhagavat-prasāda-\
+svādv-anna-tṛptān hari-bhakta-sańghān\
+kṛtvaiva tṛptiḿ bhajataḥ sadaiva\
+vande guroḥ śrī-caraṇāravindam
+
+The spiritual master is always offering Krsna four kinds of delicious food [analyzed as that which is licked, chewed, drunk, and sucked]. When the spiritual master sees that the devotees are satisfied by eating bhagavat-prasada, he is satisfied. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+
+---
+
+śrī-rādhikā-mādhavayor apāra-\
+mādhurya-līlā guṇa-rūpa-nāmnām\
+prati-kṣaṇāsvādana-lolupasya\
+vande guroḥ śrī-caraṇāravindam
+
+The spiritual master is always eager to hear and chant about the unlimited conjugal pastimes of Radhika and Madhava, and Their qualities, names, and forms. The spiritual master aspires to relish these at every moment. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+
+---
+
+nikuñja-yūno rati-keli-siddhyai\
+yā yālibhir yuktir apekṣaṇīyā\
+tatrāti-dākṣyād ati-vallabhasya\
+vande guroḥ śrī-caraṇāravindam
+
+The spiritual master is very dear, because he is expert in assisting the gopis, who at different times make different tasteful arrangements for the perfection of Radha and Krsna's conjugal loving affairs within the groves of Vrndavana. I offer my most humble obeisances unto the lotus feet of such a spiritual master.
+
+---
+
+sākṣād-dharitvena samasta-śāstrair\
+uktas tathā bhāvyata eva sadbhiḥ\
+kintu prabhor yaḥ priya eva tasya\
+vande guroḥ śrī-caraṇāravindam
+
+The spiritual master is to be honored as much as the Supreme Lord, because he is the most confidential servitor of the Lord. This is acknowledged in all revealed scriptures and followed by all authorities. Therefore I offer my respectful obeisances unto the lotus feet of such a spiritual master, who is a bona fide representative of Sri Hari [Krsna].
+
+---
+
+yasya prasādād bhagavat-prasādo\
+yasyāprasādān na gatiḥ kuto 'pi\
+dhyāyan stuvaḿs tasya yaśas tri-sandhyaḿ\
+vande guroḥ śrī-caraṇāravindam
+
+By the mercy of the spiritual master one receives the benediction of Krsna. Without the grace of the spiritual master, one cannot make any advancement. Therefore, I should always remember and praise the spiritual master. At least three times a day I should offer my respectful obeisances unto the lotus feet of my spiritual master.
 
 ---NEW SLIDE---
 
+### Sri Guru Vandana
 ### śrī-guru-caraṇa-padma
-
 ### kevala-bhakati-sadma
 
 ---
@@ -139,6 +212,10 @@ ebe jasha ghusuk tribhuvana
 
 Our spiritual teacher is the ocean of mercy, the friend of the poor, and the lord of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
 
+
+---NEW SLIDE---
+
+Jai Jai Radhe Govinda
 
 ---NEW SLIDE---
 

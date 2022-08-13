@@ -1,88 +1,79 @@
 import re
 song = '''
 (1)
-śrī-guru-caraṇa-padma, kevala-bhakati-sadma,
-bando muñi sāvadhāna mate
-jāhāra prasāde bhāi, e bhava toriyā jāi,
-kṛṣṇa-prāpti hoy jāhā ha'te
+saḿsāra-dāvānala-līḍha-loka-
+trāṇāya kāruṇya-ghanāghanatvam
+prāptasya kalyāṇa-guṇārṇavasya
+vande guroḥ śrī-caraṇāravindam
  
 (2)
-guru-mukha-padma-vākya, cittete koribo aikya,
-ār nā koriho mane āśā
-śrī-guru-caraṇe rati, ei se uttama-gati,
-je prasāde pūre sarva āśā
+mahāprabhoḥ kīrtana-nṛtya-gīta-
+vāditra-mādyan-manaso rasena
+romāñca -kampāśru-tarańga-bhājo
+vande guroḥ śrī-caraṇāravindam
  
 (3)
-cakṣu-dān dilo jei, janme janme prabhu sei,
-divya jñān hṛde prokāśito
-prema-bhakti jāhā hoite, avidyā vināśa jāte,
-vede gāy jāhāra carito
+śrī-vigrahārādhana-nitya-nānā-
+śṛńgāra-tan-mandira-mārjanādau
+yuktasya bhaktāḿś ca niyuñjato 'pi
+vande guroḥ śrī-caraṇāravindam
  
 (4)
-śrī-guru karuṇā-sindhu, adhama janāra bandhu,
-lokanāth lokera jīvana
-hā hā prabhu koro doyā, deho more pada-chāyā,
-ebe jaśa ghuṣuk tribhuvana
+catur-vidha-śrī-bhagavat-prasāda-
+svādv-anna-tṛptān hari-bhakta-sańghān
+kṛtvaiva tṛptiḿ bhajataḥ sadaiva
+vande guroḥ śrī-caraṇāravindam
  
 (5)
-vaiṣṇava caraṇa reṇu, bhūṣaṇa koriyā tanu,
-yāhā hoite anubhava hoy
-mārjana hoy bhajana, sādhu sańge anukṣaṇa,
-ajñāna avidyā parājaya
+śrī-rādhikā-mādhavayor apāra-
+mādhurya-līlā guṇa-rūpa-nāmnām
+prati-kṣaṇāsvādana-lolupasya
+vande guroḥ śrī-caraṇāravindam
  
 (6)
-jaya sanātana rūpa, prema bhakti rasa kūpa
-yugala ujjvalamaya tanu
-yāhāra prasāde loka, pāsarilo sab śoka,
-prakaṭa kalapa taru janu
+nikuñja-yūno rati-keli-siddhyai
+yā yālibhir yuktir apekṣaṇīyā
+tatrāti-dākṣyād ati-vallabhasya
+vande guroḥ śrī-caraṇāravindam
  
 (7)
-prema bhakti rīti yoto, nija granthe suvekata
-likhiyāchen dui mahāśaya
-yāhāra śravaṇa hoite, premānande bhāse cite,
-yugala madhura rasāśraya
+sākṣād-dharitvena samasta-śāstrair
+uktas tathā bhāvyata eva sadbhiḥ
+kintu prabhor yaḥ priya eva tasya
+vande guroḥ śrī-caraṇāravindam
  
 (8)
-yugala kiśora prema, lakṣa bāṇa yeno hema
-heno dhana prakāśilo yārā
-jaya rūpa sanātana, deho more prema dhana
-se ratana more gole hārā
+yasya prasādād bhagavat-prasādo
+yasyāprasādān na gatiḥ kuto 'pi
+dhyāyan stuvaḿs tasya yaśas tri-sandhyaḿ
+vande guroḥ śrī-caraṇāravindam
  
 (9)
-bhāgavata śāstra marma, nava vidhā bhakti dharma,
-sadāi koribo susevana
-anya devāśraya nāi, tomāre kohilo bhāi,
-ei bhakti parama bhajana
+śrīmad-guror aṣṭakam etad uccair
+brāhme muhūrte paṭhati prayatnāt
+yas tena vṛndāvana-nātha sākṣāt
+sevaiva labhyā januṣo’nta eva
  
-(10)
-sādhu śāstra guru vākya, hṛdoye koriyā aikya,
-satata bhāsibo prema mājhe
-karmī jñānī bhakti hīna, ihāke koribo bhina,
-narottama ei tattva gāje
- 
-WORD FOR WORD TRANSLATION: Sri Guru Carana Padma Kevala Bhakati Sadma
+WORD FOR WORD TRANSLATION: Samsara Davanala Lidha Loka
  
 TRANSLATION
-1) The lotus feet of our spiritual master are the only way by which we can attain pure devotional service. I bow to his lotus feet with great awe and reverence. By his grace one can cross the ocean of material suffering and obtain the mercy of Krsna.
+1) The spiritual master is receiving benediction from the ocean of mercy. Just as a cloud pours water on a forest fire to extinguish it, so the spiritual master delivers the materially afflicted world by extinguishing the blazing fire of material existence. I offer my respectful obeisances unto the lotus feet of such a spiritual master, who is an ocean of auspicious qualities.
  
-2) My only wish is to have my consciousness purified by the words emanating from his lotus mouth. Attachment to his lotus feet is the perfection that fulfills all desires.
+2) Chanting the holy name, dancing in ecstasy, singing, and playing musical instruments, the spiritual master is always gladdened by the sankirtana movement of Lord Caitanya Mahaprabhu. Because he is relishing the mellows of pure devotion within his mind, sometimes his hair stands on end, he feels quivering in his body, and tears flow from his eyes like waves. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
  
-3) He opens my darkened eyes and fills my heart with transcendental knowledge. He is my Lord birth after birth. From him ecstatic prema emanates; by him ignorance is destroyed. The Vedic scriptures sing of his character.
+3) The spiritual master is always engaged in the temple worship of Sri Sri Radha and Krsna. He also engages his disciples in such worship. They dress the Deities in beautiful clothes and ornaments, clean Their temple, and perform other similar worship of the Lord. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
  
-4) Our spiritual master is the ocean of mercy, the friend of the poor, and the lord and master of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
+4) The spiritual master is always offering Krsna four kinds of delicious food [analyzed as that which is licked, chewed, drunk, and sucked]. When the spiritual master sees that the devotees are satisfied by eating bhagavat-prasada, he is satisfied. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
  
-5) By making the dust of the Vaisnavas' feet the ornament of my body, ecstatic love comes.  Washing the Vaisnavas' lotus feet is my method of worship.  By always associating with the Vaisnavas, I shall overcome the darkness of ignorance.
+5) The spiritual master is always eager to hear and chant about the unlimited conjugal pastimes of Radhika and Madhava, and Their qualities, names, and forms. The spiritual master aspires to relish these at every moment. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
  
-6) O Srila Sanatana Gosvami and Srila Rupa Gosvami, who are two deep wells of the nectar of pure love, two personifications of the splendid nectar of the Divine Couple, and two desire trees by whose mercy the entire world is free from suffering, all glories to you!
+6) The spiritual master is very dear, because he is expert in assisting the gopis, who at different times make different tasteful arrangements for the perfection of Radha and Krsna's conjugal loving affairs within the groves of Vrndavana. I offer my most humble obeisances unto the lotus feet of such a spiritual master.
  
-7) In your books, you two great souls clearly described prema-bhakti.  You are reservoirs of the sweet nectar of the Divine Couple.  Hearing about you brings bliss to the heart. Their sweet mellows are my shelter.
+7) The spiritual master is to be honored as much as the Supreme Lord, because he is the most confidential servitor of the Lord. This is acknowledged in all revealed scriptures and followed by all authorities. Therefore I offer my respectful obeisances unto the lotus feet of such a spiritual master, who is a bona fide representative of Sri Hari [Krsna].
  
-8) You are fabulously wealthy, possessing ecstatic love for the youthful Divine Couple, a love more precious than gold purified in ten thousand flames.  O Rupa and Sanatana Gosvami, all glories to you!  I beg you, please give me in charity some of these jewel necklaces.
+8) By the mercy of the spiritual master one receives the benediction of Krsna. Without the grace of the spiritual master, one cannot make any advancement. Therefore, I should always remember and praise the spiritual master. At least three times a day I should offer my respectful obeisances unto the lotus feet of my spiritual master.
  
-9) I shall eternally engage in the nine-fold process of devotional service, which is the essential message of Srimad-Bhagavatam, and I shall not worship the demigods.  O brother, I say to you: Devotional service is the most exalted kind of worship.
- 
-10) Making the words of the guru, sadhus and sastras one with my heart, I constantly float and swim in the ocean of pure love.  I am different from the karmis and jnanis, who have no devotion for Krsna.  Narottama speaks the truth.
- 
+9) One who, with great care and alteration, loudly recites this beautiful prayer to the spiritual master during the Brahma-muhurta obtains direct service to Krsna, the Lord of Vrndavana, at the time of his death. 
 '''
 song = song.strip()
 song = song.lstrip("LYRICS")
