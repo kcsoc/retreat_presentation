@@ -31,7 +31,7 @@ lalitā-śrī-viśākhānvitāṁś ca
 
 ---
 
-I offer my respectful obeisances unto the lotus feet of my spiritual master and unto the feet of all Vaiṣṇavas. I offer my respectful obeisances unto the lotus feet of Śrīla Rūpa Gosvāmī along with his elder brother Sanātana Gosvāmī, as well as Raghunātha Dāsa and Raghunātha Bhaṭṭa, Gopāla Bhaṭṭa and Śrīla Jīva Gosvāmī. I offer my respectful obeisances to Lord Kṛṣṇa Caitanya and Lord Nityānanda along with Advaita Ācārya, Gadādhara, Śrīvāsa and other associates. I offer my respectful obeisances to Śrīmatī Rādhārāṇī and Śrī Kṛṣṇa along with Their associates Śrī Lalitā and Viśākhā.
+I offer my respectful obeisances unto the lotus feet of my spiritual teacher and unto the feet of all Vaiṣṇavas. I offer my respectful obeisances unto the lotus feet of Śrīla Rūpa Gosvāmī along with his elder brother Sanātana Gosvāmī, as well as Raghunātha Dāsa and Raghunātha Bhaṭṭa, Gopāla Bhaṭṭa and Śrīla Jīva Gosvāmī. I offer my respectful obeisances to Lord Kṛṣṇa Caitanya and Lord Nityānanda along with Advaita Ācārya, Gadādhara, Śrīvāsa and other associates. I offer my respectful obeisances to Śrīmatī Rādhārāṇī and Śrī Kṛṣṇa along with Their associates Śrī Lalitā and Viśākhā.
 
 ---
 
@@ -72,7 +72,7 @@ I offer my respectful obeisances unto His Divine Grace A. C. Bhaktivedanta Swami
 namas te sārasvate deve gaura-vāṇī-pracāriṇe\
 nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
 
-Our respectful obeisances are unto you, O spiritual master, servant of Sarasvatī Gosvāmī. You are kindly preaching the message of Lord Caitanyadeva and delivering the Western countries, which are filled with impersonalism and voidism.
+Our respectful obeisances are unto you, O spiritual teacher, servant of Sarasvatī Gosvāmī. You are kindly preaching the message of Lord Caitanyadeva and delivering the Western countries, which are filled with impersonalism and voidism.
 
 ---NEW SLIDE---
 
@@ -105,7 +105,7 @@ trāṇāya kāruṇya-ghanāghanatvam\
 prāptasya kalyāṇa-guṇārṇavasya\
 vande guroḥ śrī-caraṇāravindam
 
-The spiritual master is receiving benediction from the ocean of mercy. Just as a cloud pours water on a forest fire to extinguish it, so the spiritual master delivers the materially afflicted world by extinguishing the blazing fire of material existence. I offer my respectful obeisances unto the lotus feet of such a spiritual master, who is an ocean of auspicious qualities.
+The spiritual teacher is receiving benediction from the ocean of mercy. Just as a cloud pours water on a forest fire to extinguish it, so the spiritual teacher delivers the materially afflicted world by extinguishing the blazing fire of material existence. I offer my respectful obeisances unto the lotus feet of such a spiritual teacher, who is an ocean of auspicious qualities.
 
 ---
 
@@ -114,7 +114,7 @@ vāditra-mādyan-manaso rasena\
 romāñca -kampāśru-tarańga-bhājo\
 vande guroḥ śrī-caraṇāravindam
 
-Chanting the holy name, dancing in ecstasy, singing, and playing musical instruments, the spiritual master is always gladdened by the sankirtana movement of Lord Caitanya Mahaprabhu. Because he is relishing the mellows of pure devotion within his mind, sometimes his hair stands on end, he feels quivering in his body, and tears flow from his eyes like waves. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+Chanting the holy name, dancing in ecstasy, singing, and playing musical instruments, the spiritual teacher is always gladdened by the sankirtana movement of Lord Caitanya Mahaprabhu. Because he is relishing the mellows of pure devotion within his mind, sometimes his hair stands on end, he feels quivering in his body, and tears flow from his eyes like waves. I offer my respectful obeisances unto the lotus feet of such a spiritual teacher.
 
 ---
 
@@ -123,7 +123,7 @@ Chanting the holy name, dancing in ecstasy, singing, and playing musical instrum
 yuktasya bhaktāḿś ca niyuñjato 'pi\
 vande guroḥ śrī-caraṇāravindam
 
-The spiritual master is always engaged in the temple worship of Sri Sri Radha and Krsna. He also engages his disciples in such worship. They dress the Deities in beautiful clothes and ornaments, clean Their temple, and perform other similar worship of the Lord. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+The spiritual teacher is always engaged in the temple worship of Sri Sri Radha and Krsna. He also engages his disciples in such worship. They dress the Deities in beautiful clothes and ornaments, clean Their temple, and perform other similar worship of the Lord. I offer my respectful obeisances unto the lotus feet of such a spiritual teacher.
 
 ---
 
@@ -132,7 +132,7 @@ svādv-anna-tṛptān hari-bhakta-sańghān\
 kṛtvaiva tṛptiḿ bhajataḥ sadaiva\
 vande guroḥ śrī-caraṇāravindam
 
-The spiritual master is always offering Krsna four kinds of delicious food [analyzed as that which is licked, chewed, drunk, and sucked]. When the spiritual master sees that the devotees are satisfied by eating bhagavat-prasada, he is satisfied. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+The spiritual teacher is always offering Krsna four kinds of delicious food (analyzed as that which is licked, chewed, drunk, and sucked). When the spiritual teacher sees that the devotees are satisfied by eating bhagavat-prasada, he is satisfied. I offer my respectful obeisances unto the lotus feet of such a spiritual teacher.
 
 ---
 
@@ -141,7 +141,7 @@ mādhurya-līlā guṇa-rūpa-nāmnām\
 prati-kṣaṇāsvādana-lolupasya\
 vande guroḥ śrī-caraṇāravindam
 
-The spiritual master is always eager to hear and chant about the unlimited conjugal pastimes of Radhika and Madhava, and Their qualities, names, and forms. The spiritual master aspires to relish these at every moment. I offer my respectful obeisances unto the lotus feet of such a spiritual master.
+The spiritual teacher is always eager to hear and chant about the unlimited conjugal pastimes of Radhika and Madhava, and Their qualities, names, and forms. The spiritual teacher aspires to relish these at every moment. I offer my respectful obeisances unto the lotus feet of such a spiritual teacher.
 
 ---
 
@@ -150,7 +150,7 @@ yā yālibhir yuktir apekṣaṇīyā\
 tatrāti-dākṣyād ati-vallabhasya\
 vande guroḥ śrī-caraṇāravindam
 
-The spiritual master is very dear, because he is expert in assisting the gopis, who at different times make different tasteful arrangements for the perfection of Radha and Krsna's conjugal loving affairs within the groves of Vrndavana. I offer my most humble obeisances unto the lotus feet of such a spiritual master.
+The spiritual teacher is very dear, because he is expert in assisting the gopis, who at different times make different tasteful arrangements for the perfection of Radha and Krsna's conjugal loving affairs within the groves of Vrndavana. I offer my most humble obeisances unto the lotus feet of such a spiritual teacher.
 
 ---
 
@@ -159,7 +159,7 @@ uktas tathā bhāvyata eva sadbhiḥ\
 kintu prabhor yaḥ priya eva tasya\
 vande guroḥ śrī-caraṇāravindam
 
-The spiritual master is to be honored as much as the Supreme Lord, because he is the most confidential servitor of the Lord. This is acknowledged in all revealed scriptures and followed by all authorities. Therefore I offer my respectful obeisances unto the lotus feet of such a spiritual master, who is a bona fide representative of Sri Hari [Krsna].
+The spiritual teacher is to be honored as much as the Supreme Lord, because he is the most confidential servitor of the Lord. This is acknowledged in all revealed scriptures and followed by all authorities. Therefore I offer my respectful obeisances unto the lotus feet of such a spiritual teacher, who is a bona fide representative of Sri Hari [Krsna].
 
 ---
 
@@ -168,7 +168,7 @@ yasyāprasādān na gatiḥ kuto 'pi\
 dhyāyan stuvaḿs tasya yaśas tri-sandhyaḿ\
 vande guroḥ śrī-caraṇāravindam
 
-By the mercy of the spiritual master one receives the benediction of Krsna. Without the grace of the spiritual master, one cannot make any advancement. Therefore, I should always remember and praise the spiritual master. At least three times a day I should offer my respectful obeisances unto the lotus feet of my spiritual master.
+By the mercy of the spiritual teacher one receives the benediction of Krsna. Without the grace of the spiritual teacher, one cannot make any advancement. Therefore, I should always remember and praise the spiritual teacher. At least three times a day I should offer my respectful obeisances unto the lotus feet of my spiritual teacher.
 
 ---NEW SLIDE---
 
