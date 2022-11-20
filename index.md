@@ -172,9 +172,7 @@ By the mercy of the spiritual teacher one receives the benediction of Krsna. Wit
 
 ---NEW SLIDE---
 
-### Sri Guru Vandana
-### śrī-guru-caraṇa-padma
-### kevala-bhakati-sadma
+### Guru Puja (together)
 
 ---
 
@@ -212,6 +210,59 @@ ebe jasha ghusuk tribhuvana
 
 Our spiritual teacher is the ocean of mercy, the friend of the poor, and the lord of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
 
+
+
+---NEW SLIDE---
+
+### Guru Puja (separate)
+
+---
+
+sri-guru-charana-padma, kevala-bhakati-sadma\
+bando mui savadhana mate
+
+jahara prasade bhai, e bhava toriya jai\
+krishna-prapti hoy jaha haite
+
+---
+
+The lotus feet of our spiritual teacher are the abode of pure devotional service. I bow down to his lotus feet with great awe and reverance. It is through the grace of our spiritual teacher that we can cross over this material existence and attain love of Krishna.
+
+---
+
+guru-mukha-padma-vakya, chittete koriya aikya,\
+ar na koriho mane asha
+
+sri-guru-charane rati, ei se uttama-gati\
+je prasade pure sarva asha
+
+---
+
+My only wish is to have my consciousness purified by the words emanating from the spiritual teacher's lotus mouth. Attachment to his lotus feet is the perfection that fulfills all desires.
+
+---
+
+chakhu-dan dilo jei, janme janme prabhu sei\
+divya jnan hride prokashito
+
+prema-bhakti jaha hoite, avidya vinasha jate\
+vede gay jahara charito
+
+---
+
+The spiritual teacher opens my darkened eyes and fills my heart with transcendental knowledge. He is my Lord birth after birth. From him ecstatic love emanates; by him ignorance is destroyed. The Vedic scriptures sing of his character.
+
+---
+
+sri-guru karuna-sindhu, adhama janara bandhu\
+lokanath lokera jivana
+
+ha ha prabhu koro doya, deho more pada-chaya\
+ebe jasha ghusuk tribhuvana
+
+---
+
+Our spiritual teacher is the ocean of mercy, the friend of the poor, and the lord of the devotees. O Lokanatha Goswami! O master! Be merciful unto me. Give me the shade of your lotus feet. Your fame is spread all over the three worlds.
 
 ---NEW SLIDE---
 
