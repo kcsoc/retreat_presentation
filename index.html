@@ -70,7 +70,14 @@
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
       });
 
-      let enabled = false;
+      // settimeout 
+      setTimeout(function () {
+        let els = document.getElementsByClassName("slide-background-content")
+        for (el of els) {
+          el.classList.add("slide-background-content-animate")
+        }
+      }, 1000);
+      let enabled = true;
       window.addEventListener("keydown", function (event) {
         if (event.defaultPrevented) {
           return; // Do nothing if the event was already processed
