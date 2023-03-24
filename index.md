@@ -480,11 +480,11 @@ Remembering the lotus feet of Lord Nityananda's consort, Sri Jahnava Devi, this 
 
 ---
 
-jaya rādhā-mādhava kuñja-bihārī\
-gopī-jana-vallabha giri-vara-dhārī
+jaya radha-madhava kunja bihari\
+gopi jana vallabha, giri vara dhari
 
-yaśodā-nandana braja-jana-rañjana\
-yāmuna-tīra-vana-cārī
+yashoda-nandana, braja jana ranjana\
+yamuna tira vana chari
 
 ---
 
