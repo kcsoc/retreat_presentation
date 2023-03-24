@@ -483,12 +483,12 @@ Remembering the lotus feet of Lord Nityananda's consort, Sri Jahnava Devi, this 
 jaya rādhā-mādhava kuñja-bihārī\
 gopī-jana-vallabha giri-vara-dhārī
 
-Krsna is the lover of Radha. He displays many amorous pastimes in the groves of Vrndavana, He is the lover of the cowherd maidens of Vraja, and the holder of the great hill named Govardhana.
+yaśodā-nandana braja-jana-rañjana\
+yāmuna-tīra-vana-cārī
 
 ---
 
-yaśodā-nandana braja-jana-rañjana\
-yāmuna-tīra-vana-cārī
+Krsna is the lover of Radha. He displays many amorous pastimes in the groves of Vrndavana, He is the lover of the cowherd maidens of Vraja, and the holder of the great hill named Govardhana.
 
 He is the beloved son of mother Yasoda, the delighter of the inhabitants of Vraja, and He wanders in the forests along the banks of the River Yamuna!
 
