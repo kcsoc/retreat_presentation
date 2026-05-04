@@ -73,6 +73,40 @@
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
       });
 
+      // Keep the presentation awake (like video playback) while slides are visible.
+      let wakeLock = null;
+      const supportsWakeLock = "wakeLock" in navigator;
+
+      async function requestWakeLock() {
+        if (!supportsWakeLock || document.visibilityState !== "visible" || wakeLock) {
+          return;
+        }
+
+        try {
+          wakeLock = await navigator.wakeLock.request("screen");
+          console.log("Screen wake lock enabled");
+
+          wakeLock.addEventListener("release", () => {
+            wakeLock = null;
+            console.log("Screen wake lock released");
+          });
+        } catch (error) {
+          console.warn("Screen wake lock unavailable:", error);
+        }
+      }
+
+      // Reacquire wake lock when returning to the tab.
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") {
+          requestWakeLock();
+        }
+      });
+
+      // Some browsers require a user gesture before wake lock can be requested.
+      document.addEventListener("pointerdown", requestWakeLock, { once: true });
+      document.addEventListener("keydown", requestWakeLock, { once: true });
+      requestWakeLock();
+
       // settimeout 
       setTimeout(function () {
         let els = document.getElementsByClassName("slide-background-content")
